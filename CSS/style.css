@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 80px;
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.header {
+    padding: 40px;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.botton1 {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 2px solid grey;
+    margin: 10px;
+}
+
+.botton2 {
+    background-color: rgb(255, 255, 255);
+    color:grey;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 2px solid grey;
+}
+
+.list1 {
+    list-style: none;
+}
+
+.div-list {
+    margin: 50px;
+}
